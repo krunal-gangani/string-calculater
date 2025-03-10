@@ -22,6 +22,7 @@ Installation & Setup
 1️:> Clone the Repository
 
 git clone https://github.com/your-username/string-calculator.git
+
 cd string-calculator
 
 2️:> Install Dependencies
