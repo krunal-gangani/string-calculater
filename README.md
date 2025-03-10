@@ -8,15 +8,6 @@ Features
 ✔ Supports custom delimiters (e.g., "//;\n1;2" → 3)
 ✔ Throws an exception for negative numbers, listing all negative valu
 
-📂 Project Structure
-
-string-calculator
-├── 📁 test                 # Test cases using Mocha & Chai
-│   ├── stringCalculator.test.js
-├── 📄 stringCalculator.js  # Main implementation of String Calculator
-├── 📄 package.json         # Project dependencies and scripts
-├── 📄 README.md            # Project documentation
-
 Installation & Setup
 
 1️:> Clone the Repository
