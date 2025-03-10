@@ -3,6 +3,7 @@ String Calculator (TDD Kata)
 A simple String Calculator implemented in JavaScript, following Test-Driven Development (TDD) principles using Mocha & Chai.
 
 Features
+
 ✔ Returns 0 for an empty string
 
 ✔ Supports single and multiple numbers
