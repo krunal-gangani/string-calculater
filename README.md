@@ -32,4 +32,5 @@ npm install
 3️:> Run Tests
 
 npx mocha test/stringCalculator.test.js
+
 npm test
